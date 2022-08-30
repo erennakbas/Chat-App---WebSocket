@@ -9,7 +9,8 @@ After installing the project, you should execute commands below on different com
 - Run "npm run dev" command on client folder.
 - Run "npm start" command on server folder.
 
-Here are some screenshots from the project.
+Here are some screenshots from the project:
+
 ![1](https://user-images.githubusercontent.com/72765259/187511513-386184e3-79e7-4540-9fb2-38527abc8ef5.png)
 -------------------------------------------------------------------------------------------------------------------------
 
