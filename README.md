@@ -10,7 +10,8 @@ After installing the project, you should execute commands below on different com
 - Run "npm start" command on server folder.
 
 Here are some screenshots from the project.
-![1](https://user-images.githubusercontent.com/72765259/187511513-386184e3-79e7-4540-9fb2-38527abc8ef5.png){: margin-bottom="20px" height:"600px"}
+![1](https://user-images.githubusercontent.com/72765259/187511513-386184e3-79e7-4540-9fb2-38527abc8ef5.png)
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -21,7 +22,7 @@ Here are some screenshots from the project.
 
 ![2](https://user-images.githubusercontent.com/72765259/187511602-e9e688f6-cf42-4ff0-9a60-9faddc659792.png)
 
-
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
