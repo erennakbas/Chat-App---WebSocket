@@ -11,7 +11,15 @@ After installing the project, you should execute commands below on different com
 
 Here are some screenshots from the project.
 ![1](https://user-images.githubusercontent.com/72765259/187511513-386184e3-79e7-4540-9fb2-38527abc8ef5.png)
+
+
 ![2](https://user-images.githubusercontent.com/72765259/187511602-e9e688f6-cf42-4ff0-9a60-9faddc659792.png)
+
+
 ![3](https://user-images.githubusercontent.com/72765259/187511614-38e6c357-c518-4ed0-8ed7-ed9c9deef35a.png)
 
-To learn about socket.io: https://socket.io/
+
+
+To learn more about WebSockets and socket.io:
+https://www.youtube.com/watch?v=1BfCnjr_Vjg
+https://socket.io/
