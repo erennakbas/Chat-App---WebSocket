@@ -1,0 +1,9 @@
+.main {
+  @apply w-full h-full;
+}
+.container {
+  @apply absolute m-auto inset-0 h-4/6 w-1/2 rounded-lg border border-gray-300  shadow-md shadow-indigo-500/50;
+}
+.footer {
+  @apply absolute border-t border-gray-600 mb-1 bottom-0 w-full;
+}
